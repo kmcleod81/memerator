@@ -21,12 +21,12 @@ export default function Nav() {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item active">
-              <a className="nav-link" href="/">
+              <a className="nav-link" href="#">
                 Create
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="my-memes">
+              <a className="nav-link" href="#">
                 My Memes
               </a>
             </li>
