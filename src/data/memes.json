@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Disaster Girl",
+    "file": "disaster.jpg",
+    "size": [500, 375]
+  },
+  {
+    "name": "Epic Handshake",
+    "file": "handshake.jpg",
+    "size": [900, 645]
+  },
+  {
+    "name": "Hide the Pain Harold",
+    "file": "harold.jpg",
+    "size": [480, 601]
+  },
+  {
+    "name": "One Does Not Simply",
+    "file": "lotr.jpg",
+    "size": [568, 335]
+  },
+  {
+    "name": "Sad Pablo Escobar",
+    "file": "pablo.jpg",
+    "size": [720, 709]
+  },
+  {
+    "name": "Is This a Pigeon?",
+    "file": "pigeon.jpg",
+    "size": [1587, 1425]
+  },
+  {
+    "name": "Monkey Puppet",
+    "file": "puppet.jpg",
+    "size": [923, 768]
+  },
+  {
+    "name": "Woman Yelling at Cat",
+    "file": "womancat.jpg",
+    "size": [680, 438]
+  }
+]
